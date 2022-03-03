@@ -26,9 +26,6 @@ at an interest rate of <mark>${rate.value}%</mark>.
 You will receive an amount of <mark>${amount}</mark>,
 in the year <mark>${futureYear}</mark>`;
 
-document.getElementById("solution").innerHTML = newElement;
-                 
-
-    
+document.getElementById("solution").innerHTML = newElement;           
 }
         
